@@ -1,6 +1,6 @@
 # Software Developer (Projects very broad)
 
-Hey, My name is Callum, and I'm excited to share my still developing software engineer portfolio. Within this repository, you'll find a catalog of my projects completed in various different aspects of software ranging from networking all the way to malware, these are based on courses or self development exercises, each of which covers essential skills and techniques.
+Hey, my name is Callum, and I'm excited to share my still developing software engineer portfolio. Within this repository, you'll find a catalog of my projects completed in various different aspects of software ranging from networking all the way to malware, these are based on courses or self development exercises, each of which covers essential skills and techniques.
 
 ### [HomeLab - VmWare](LINK)
 
